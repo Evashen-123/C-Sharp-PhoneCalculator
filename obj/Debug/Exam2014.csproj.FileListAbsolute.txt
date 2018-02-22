@@ -1,0 +1,12 @@
+E:\Studies\Development Software\Visual Studio_Exercises\Exam2014\bin\Exam2014.dll.config
+E:\Studies\Development Software\Visual Studio_Exercises\Exam2014\bin\Exam2014.dll
+E:\Studies\Development Software\Visual Studio_Exercises\Exam2014\bin\Exam2014.pdb
+E:\Studies\Development Software\Visual Studio_Exercises\Exam2014\obj\Debug\Exam2014.csprojResolveAssemblyReference.cache
+E:\Studies\Development Software\Visual Studio_Exercises\Exam2014\obj\Debug\Exam2014.dll
+E:\Studies\Development Software\Visual Studio_Exercises\Exam2014\obj\Debug\Exam2014.pdb
+C:\Users\evashen\Desktop\Studies\1\Semester1\Semester1\Development Software\Visual Studio_Exercises\Exam2014\bin\Exam2014.dll.config
+C:\Users\evashen\Desktop\Studies\1\Semester1\Semester1\Development Software\Visual Studio_Exercises\Exam2014\bin\Exam2014.dll
+C:\Users\evashen\Desktop\Studies\1\Semester1\Semester1\Development Software\Visual Studio_Exercises\Exam2014\bin\Exam2014.pdb
+C:\Users\evashen\Desktop\Studies\1\Semester1\Semester1\Development Software\Visual Studio_Exercises\Exam2014\obj\Debug\Exam2014.csprojResolveAssemblyReference.cache
+C:\Users\evashen\Desktop\Studies\1\Semester1\Semester1\Development Software\Visual Studio_Exercises\Exam2014\obj\Debug\Exam2014.dll
+C:\Users\evashen\Desktop\Studies\1\Semester1\Semester1\Development Software\Visual Studio_Exercises\Exam2014\obj\Debug\Exam2014.pdb
